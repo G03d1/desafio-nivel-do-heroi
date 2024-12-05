@@ -6,7 +6,7 @@ Desafio que exibe o nível do herói de acordo com a sua experiência utilizando
 
 ### Screenshot
 
-<img src="desafio-nivel-heroi/screenshot"/>
+<img src="screenshot.jpg"/>
 
 ### Agradecimentos
 
